@@ -309,7 +309,7 @@ features
 }
 .item-img i{
   font-size: 60px;
-  color: #db0202;
+  color: #848486;
 }
 
 .sub-title {
@@ -452,7 +452,7 @@ ul.service-list li i {
   display: block;
   position: relative;
   z-index: 10;
-  margin: -15px 0
+  margin: 0 0
 }
 
 .portfolio-item figure figcaption {
